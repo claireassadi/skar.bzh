@@ -1,0 +1,152 @@
+Return-Path: <>
+Delivered-To: fiancaillesparis@evm611.sgvps.net
+Received: from evm611.sgvps.net
+	by evm611.sgvps.net with LMTP id GHlZBhS0YlwGxQAAxNTPJA
+	for <fiancaillesparis@evm611.sgvps.net>; Tue, 12 Feb 2019 12:55:00 +0100
+Return-path: <>
+Envelope-to: fiancaillesparis@evm611.sgvps.net
+Delivery-date: Tue, 12 Feb 2019 12:55:00 +0100
+Received: from mailnull by evm611.sgvps.net with local (Exim 4.89_34-9f6032f-XX)
+	id 1gtWeS-000D7Q-1p
+	for fiancaillesparis@evm611.sgvps.net; Tue, 12 Feb 2019 12:55:00 +0100
+X-Failed-Recipients: contact@fiancailles-a-paris.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@evm611.sgvps.net>
+To: fiancaillesparis@evm611.sgvps.net
+Content-Type: multipart/report; report-type=delivery-status; boundary=1549972500-eximdsn-918951577
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1gtWeS-000D7Q-1p@evm611.sgvps.net>
+Date: Tue, 12 Feb 2019 12:55:00 +0100
+
+--1549972500-eximdsn-918951577
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  contact@fiancailles-a-paris.com
+    host outbound.mailspamprotection.com [96.127.176.250]
+    SMTP error from remote mail server after end of data:
+    550 A URL in this email (talkwithcustomer . com) is listed on https://spamrl.com/. Please resolve and retry
+
+--1549972500-eximdsn-918951577
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; evm611.sgvps.net
+
+Action: failed
+Final-Recipient: rfc822;contact@fiancailles-a-paris.com
+Status: 5.0.0
+Remote-MTA: dns; outbound.mailspamprotection.com
+Diagnostic-Code: smtp; 550 A URL in this email (talkwithcustomer . com) is listed on https://spamrl.com/. Please resolve and retry
+
+--1549972500-eximdsn-918951577
+Content-type: message/rfc822
+
+Return-path: <fiancaillesparis@evm611.sgvps.net>
+Received: from [127.0.0.1] (port=48574 helo=evm611.sgvps.net)
+	by evm611.sgvps.net with smtp (Exim 4.89_34-9f6032f-XX)
+	(envelope-from <fiancaillesparis@evm611.sgvps.net>)
+	id 1gtWeP-000D7A-6M
+	for contact@fiancailles-a-paris.com; Tue, 12 Feb 2019 12:54:57 +0100
+X-SG-User: fiancaillesparis
+X-SG-Opt:  SCRIPT_FILENAME=/home/fiancaillesparis/public_html/index.php  REQUEST_URI=/service-client-contact/  PWD=/home/fiancaillesparis/public_html  REMOTE_ADDR=185.217.170.204 
+To: contact@fiancailles-a-paris.com
+Subject: Contact via site internet
+Date: Tue, 12 Feb 2019 11:54:57 +0000
+From: "eric@talkwithcustomer.com" <contact@fiancailles-a-paris.com>
+Reply-To: eric@talkwithcustomer.com
+Message-ID: <8e17e2c0099cdf8ebed0ef3b1bf95e27@fiancailles-a-paris.com>
+X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+De: eric@talkwithcustomer.com <eric@talkwithcustomer.com>
+Objet: Eblkxuwlaa
+
+Nom : Mlle Eric Eric
+Téléphone : 416-385-3200
+Message :
+Hello,
+
+Running a website like fiancailles-a-paris.com is a lot like trying to fill a leaky bucket.
+
+You promote, get website visitor, they drop out... you promote, get more website visitors, they drop out...
+
+But today I wanted to address the "leaky bucket" effect that keeps website owners and online businesses running on a treadmill without reaching their income goals.
+
+I've identified 5 ongoing challenges that can keep you from reaching your business goals with your online business offering.
+
+Ongoing Challenge 1: Attracting Leads and Getting People to Opt-In
+
+In order to sustain your website and sell your product, you need people who are interested enough to actually consider your offers.
+
+Building an engaged list of subscribers is the key here... but did you know there's a way your website can help you with that?
+
+Ongoing Challenge 2: Converting Leads into Happy Paying Customers
+
+Once you've figured out a way to get more people to join your email list, you need to tell them about your paid product and offerings in a way that converts.
+
+The standard email marketing funnel works... but if they don't buy, there are more organic ways to get them to purchase your paid offerings right inside your website.
+
+Ongoing Challenge 3: Having a Leaky Checkout Experience & Losing Out On Sales
+
+Once you've done all of the hard work of getting people to say yes to your paid offerings... you definitely don't want to lose out on sales by having a leaky checkout experience.
+
+Statistics show that 77% of people who click the “Buy Now” button never complete their order, but there's a way to recoup these sales.
+
+Ongoing Challenge 4: Increasing Return Customers and Recurring Revenue
+
+Once you've got customers... your job is done, right? Not so fast!
+
+You can offer more solutions, products, and ongoing access to these same customers over time... because the probability of selling to a new prospect is 5-20% and the probability of selling to an existing customer is 60-70%.
+
+Ongoing Challenge 5: Customers Who Fall Off The Wagon and do not buy
+
+Customer retention is key to the long-term success of your website. But it's normal for customers to fall off the wagon, get busy, and stop logging into your website.
+
+Or is it?
+
+If you use smart nurturing strategies, you can keep your customers engaged and actively benefitting from your website to reduce drop offs and refunds.
+
+How our software overcomes each of these ongoing challenges:
+
+These are real challenges that never seem to go away...
+
+I know because I've been there myself. I've put in thousands of dollars and hundreds of hours figuring out what works, what doesn't, and how to fill my own website over the past 10 years.
+
+And I built all of the strategies to overcome these obstacles right into our best-selling lead converting software tool: http://www.talkwithcustomer.com
+
+Talk With Website Visitors is a widget which captures a website visitor’s Name, Email address and Phone Number and then calls you immediately, so that you can talk to the website visitors exactly when they are live on your website — while they're hot! Best feature of all, we offer FREE International Long Distance Calling!
+
+When targeting website visitors, speed is essential - there is a 100x decrease in Leads when a website visitors is contacted within 30 minutes vs being contacted within 5 minutes.
+
+I'm so sure that Talk With Website Visitors will help you in your business endeavors that I'm offering you a special incentive to get started today.
+
+Sign up for Talk With Website Visitors and get a 14 days free trial today.  Visit: http://www.talkwithcustomer.com
+
+This is a one-time only promotion that expires in 14 days.
+
+Why am I offering you this time sensitive 14 days free trial incentive?
+
+Because I know that people who use Talk With Website Visitors get their sites up, running, and selling...
+
+So, if you know its time to get serious about your online website fiancailles-a-paris.com, and you want the tool that's built by someone who has been in your shoes and understands the realities of selling online...
+
+Then take advantage of this special coupon code today. Visit: http://www.talkwithcustomer.com
+
+I'm so excited to share my life's work with you, and I know you understand that there's work ahead to make your digital business successful. But having the right tools and the right strategies to overcome the unavoidable challenges makes it all the more doable!
+
+Thanks so much for reading - and next time I'll be talking about my biggest pet peeve when it comes to technology! (You might be surprised about this one.)
+
+With appreciation,
+-Eric "simplifying tech" Jones
+
+If you'd like to unsubscribe click here. http://liveserveronline.com/talkwithcustomer.aspx?d=fiancailles-a-paris.com
+
+
+--1549972500-eximdsn-918951577--

@@ -1,0 +1,2 @@
+[09-Jun-2018 08:51:48 CST6CDT] PHP Fatal error:  Call to undefined function add_action() in /home/fiancaillesparis/public_html/wp-content/plugins/hello.php on line 60
+[09-Jun-2018 08:51:51 CST6CDT] PHP Fatal error:  Call to undefined function add_action() in /home/fiancaillesparis/public_html/wp-content/plugins/hello.php on line 60

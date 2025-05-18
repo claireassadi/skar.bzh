@@ -1,0 +1,95 @@
+Return-Path: <>
+Delivered-To: fiancaillesparis@evm611.sgvps.net
+Received: from evm611.sgvps.net
+	by evm611.sgvps.net with LMTP id cON+D2JWK1y0DwAAxNTPJA
+	for <fiancaillesparis@evm611.sgvps.net>; Tue, 01 Jan 2019 13:00:34 +0100
+Return-path: <>
+Envelope-to: fiancaillesparis@evm611.sgvps.net
+Delivery-date: Tue, 01 Jan 2019 13:00:34 +0100
+Received: from mailnull by evm611.sgvps.net with local (Exim 4.89_34-9f6032f-XX)
+	id 1geIio-00012k-7B
+	for fiancaillesparis@evm611.sgvps.net; Tue, 01 Jan 2019 13:00:34 +0100
+X-Failed-Recipients: contact@fiancailles-a-paris.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@evm611.sgvps.net>
+To: fiancaillesparis@evm611.sgvps.net
+Content-Type: multipart/report; report-type=delivery-status; boundary=1546344034-eximdsn-1224946630
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1geIio-00012k-7B@evm611.sgvps.net>
+Date: Tue, 01 Jan 2019 13:00:34 +0100
+
+--1546344034-eximdsn-1224946630
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  contact@fiancailles-a-paris.com
+    host outbound.mailspamprotection.com [184.154.136.82]
+    SMTP error from remote mail server after end of data:
+    550 A URL in this email (talkwithcustomer . com) is listed on https://spamrl.com/. Please resolve and retry
+
+--1546344034-eximdsn-1224946630
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; evm611.sgvps.net
+
+Action: failed
+Final-Recipient: rfc822;contact@fiancailles-a-paris.com
+Status: 5.0.0
+Remote-MTA: dns; outbound.mailspamprotection.com
+Diagnostic-Code: smtp; 550 A URL in this email (talkwithcustomer . com) is listed on https://spamrl.com/. Please resolve and retry
+
+--1546344034-eximdsn-1224946630
+Content-type: message/rfc822
+
+Return-path: <fiancaillesparis@evm611.sgvps.net>
+Received: from [127.0.0.1] (port=32770 helo=evm611.sgvps.net)
+	by evm611.sgvps.net with smtp (Exim 4.89_34-9f6032f-XX)
+	(envelope-from <fiancaillesparis@evm611.sgvps.net>)
+	id 1geIil-00012Y-8H
+	for contact@fiancailles-a-paris.com; Tue, 01 Jan 2019 13:00:31 +0100
+X-SG-User: fiancaillesparis
+X-SG-Opt:  SCRIPT_FILENAME=/home/fiancaillesparis/public_html/index.php  REQUEST_URI=/service-client-contact/  PWD=/home/fiancaillesparis/public_html  REMOTE_ADDR=147.92.54.174 
+To: contact@fiancailles-a-paris.com
+Subject: Contact via site internet
+Date: Tue, 1 Jan 2019 12:00:31 +0000
+From: "randy@talkwithlead.com" <contact@fiancailles-a-paris.com>
+Reply-To: randy@talkwithlead.com
+Message-ID: <e340b60a903fa2bae8a6afe0a88ef753@fiancailles-a-paris.com>
+X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+De: randy@talkwithlead.com <randy@talkwithlead.com>
+Objet: J lgpyk
+
+Nom : Mr Randy Randy
+Téléphone : 416-385-3200
+Message :
+Hi,
+
+My name is Randy and I was looking at a few different sites online and came across your site fiancailles-a-paris.com.  I must say - your website is very impressive.  I found your website on the first page of the Search Engine.
+
+Have you noticed that 70 percent of visitors who leave your website will never return?  In most cases, this means that 95 percent to 98 percent of your marketing efforts are going to waste, not to mention that you are losing more money in customer acquisition costs than you need to.
+As a business person, the time and money you put into your marketing efforts is extremely valuable.  So why let it go to waste?  Our users have seen staggering improvements in conversions with insane growths of 150 percent going upwards of 785 percent. Are you ready to unlock the highest conversion revenue from each of your website visitors?  
+
+TalkWithLead is a widget which captures a website visitor’s Name, Email address and Phone Number and then calls you immediately, so that you can talk to the Lead exactly when they are live on your website — while they're hot! Best feature of all, we offer FREE International Long Distance Calling!
+  
+Try the TalkWithLead Live Demo now to see exactly how it works.  Visit: http://www.talkwithcustomer.com
+
+When targeting leads, speed is essential - there is a 100x decrease in Leads when a Lead is contacted within 30 minutes vs being contacted within 5 minutes.
+
+If you would like to talk to me about this service, please give me a call.  We do offer a 14 days free trial.  
+
+Thanks and Best Regards,
+Randy
+
+If you'd like to unsubscribe click here. http://liveserveronline.com/talkwithcustomer.aspx?d=fiancailles-a-paris.com
+
+
+--1546344034-eximdsn-1224946630--

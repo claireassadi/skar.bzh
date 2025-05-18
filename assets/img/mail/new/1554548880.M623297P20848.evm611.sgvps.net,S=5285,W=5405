@@ -1,0 +1,120 @@
+Return-Path: <>
+Delivered-To: fiancaillesparis@evm611.sgvps.net
+Received: from evm611.sgvps.net
+	by evm611.sgvps.net with LMTP id qBLBJJCIqFxwUQAAxNTPJA
+	for <fiancaillesparis@evm611.sgvps.net>; Sat, 06 Apr 2019 13:08:00 +0200
+Return-path: <>
+Envelope-to: fiancaillesparis@evm611.sgvps.net
+Delivery-date: Sat, 06 Apr 2019 13:08:00 +0200
+Received: from mailnull by evm611.sgvps.net with local (Exim 4.89_34-9f6032f-XX)
+	id 1hCjB2-0005QA-ID
+	for fiancaillesparis@evm611.sgvps.net; Sat, 06 Apr 2019 13:08:00 +0200
+X-Failed-Recipients: contact@fiancailles-a-paris.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@evm611.sgvps.net>
+To: fiancaillesparis@evm611.sgvps.net
+Content-Type: multipart/report; report-type=delivery-status; boundary=1554548880-eximdsn-1038240806
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1hCjB2-0005QA-ID@evm611.sgvps.net>
+Date: Sat, 06 Apr 2019 13:08:00 +0200
+
+--1554548880-eximdsn-1038240806
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  contact@fiancailles-a-paris.com
+    host outbound.mailspamprotection.com [108.163.220.50]
+    SMTP error from remote mail server after end of data:
+    550 A URL in this email (talkwithcustomer . com) is listed on https://spamrl.com/. Please resolve and retry
+
+--1554548880-eximdsn-1038240806
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; evm611.sgvps.net
+
+Action: failed
+Final-Recipient: rfc822;contact@fiancailles-a-paris.com
+Status: 5.0.0
+Remote-MTA: dns; outbound.mailspamprotection.com
+Diagnostic-Code: smtp; 550 A URL in this email (talkwithcustomer . com) is listed on https://spamrl.com/. Please resolve and retry
+
+--1554548880-eximdsn-1038240806
+Content-type: message/rfc822
+
+Return-path: <fiancaillesparis@evm611.sgvps.net>
+Received: from [127.0.0.1] (port=55538 helo=evm611.sgvps.net)
+	by evm611.sgvps.net with smtp (Exim 4.89_34-9f6032f-XX)
+	(envelope-from <fiancaillesparis@evm611.sgvps.net>)
+	id 1hCjB0-0005Pz-Dd
+	for contact@fiancailles-a-paris.com; Sat, 06 Apr 2019 13:07:58 +0200
+X-SG-User: fiancaillesparis
+X-SG-Opt:  SCRIPT_FILENAME=/home/fiancaillesparis/public_html/index.php  REQUEST_URI=/service-client-contact/  PWD=/home/fiancaillesparis/public_html  REMOTE_ADDR=158.222.6.45 
+To: contact@fiancailles-a-paris.com
+Subject: Contact via site internet
+Date: Sat, 6 Apr 2019 11:07:58 +0000
+From: "eric@talkwithcustomer.com" <contact@fiancailles-a-paris.com>
+Reply-To: eric@talkwithcustomer.com
+Message-ID: <81c78dea769d701978b9994e8f2de621@fiancailles-a-paris.com>
+X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+De: eric@talkwithcustomer.com <eric@talkwithcustomer.com>
+Objet: Lg Zaxijc
+
+Nom : Mr Eric Eric
+Téléphone : 416-385-3200
+Message :
+Hello,
+
+You have a website, right? 
+  
+Of course you do. I found fiancailles-a-paris.com today.
+
+It gets traffic every day – that you’re probably spending $2 / $4 / $10 or more a click to get.  Not including all of the work you put into creating social media, videos, blog posts, emails, and so on.
+
+So you’re investing seriously in getting people to that site.
+
+But how’s it working?  Great? Okay?  Not so much?
+
+If that answer could be better, then it’s likely you’re putting a lot of time, effort, and money into an approach that’s not paying off like it should.
+
+Now… imagine doubling your lead conversion in just minutes… In fact, I’ll go even better.
+ 
+You could actually get up to 100X more conversions!
+
+I’m not making this up.  As Chris Smith, best-selling author of The Conversion Code says:
+-Speed is essential - there is a 100x decrease in Leads when a Lead is contacted within 14 minutes vs being contacted within 5 minutes.
+
+He’s backed up by a study at MIT that found the odds of contacting a lead will increase by 100 times if attempted in 5 minutes or less.
+
+Again, out of the 100s of visitors to your website, how many actually call to become clients?
+
+Well, you can significantly increase the number of calls you get – with ZERO extra effort.
+
+Our software, Talk With Customer, makes it easy, simple, and fast – in fact, you can start getting more calls today… and at absolutely no charge to you.
+
+CLICK HERE http://www.talkwithcustomer.com to find out how.
+
+Sincerely,
+
+Eric Jones
+
+PS: Don’t just take my word for it, TalkWithCustomer works:
+-EMA has been looking for ways to reach out to an audience. TalkWithCustomer so far is the most direct call of action. It has produced above average closing ratios and we are thrilled. Thank you for providing a real and effective tool to generate REAL leads. - Patrick MontesDeOca, Ema2Trade
+
+Best of all, act now to get a no-cost 14-Day Test Drive – our gift to you just for giving TalkWithCustomer a try. 
+
+CLICK HERE http://www.talkwithcustomer.com to start converting up to 100X more leads today!
+
+
+If you'd like to unsubscribe click here. http://liveserveronline.com/talkwithcustomer.aspx?d=fiancailles-a-paris.com
+
+
+--1554548880-eximdsn-1038240806--

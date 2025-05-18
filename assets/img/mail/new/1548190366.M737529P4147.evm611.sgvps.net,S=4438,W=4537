@@ -1,0 +1,99 @@
+Return-Path: <>
+Delivered-To: fiancaillesparis@evm611.sgvps.net
+Received: from evm611.sgvps.net
+	by evm611.sgvps.net with LMTP id SEd8K56CR1wzEAAAxNTPJA
+	for <fiancaillesparis@evm611.sgvps.net>; Tue, 22 Jan 2019 21:52:46 +0100
+Return-path: <>
+Envelope-to: fiancaillesparis@evm611.sgvps.net
+Delivery-date: Tue, 22 Jan 2019 21:52:46 +0100
+Received: from mailnull by evm611.sgvps.net with local (Exim 4.89_34-9f6032f-XX)
+	id 1gm32M-00014f-9z
+	for fiancaillesparis@evm611.sgvps.net; Tue, 22 Jan 2019 21:52:46 +0100
+X-Failed-Recipients: pascal@sofimediat.fr
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@evm611.sgvps.net>
+To: fiancaillesparis@evm611.sgvps.net
+Content-Type: multipart/report; report-type=delivery-status; boundary=1548190366-eximdsn-1945964822
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1gm32M-00014f-9z@evm611.sgvps.net>
+Date: Tue, 22 Jan 2019 21:52:46 +0100
+
+--1548190366-eximdsn-1945964822
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  pascal@sofimediat.fr
+    No Such User Here
+
+--1548190366-eximdsn-1945964822
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; evm611.sgvps.net
+
+Action: failed
+Final-Recipient: rfc822;pascal@sofimediat.fr
+Status: 5.0.0
+
+--1548190366-eximdsn-1945964822
+Content-type: message/rfc822
+
+Return-path: <fiancaillesparis@evm611.sgvps.net>
+Received: from [127.0.0.1] (port=32922 helo=evm611.sgvps.net)
+	by evm611.sgvps.net with smtp (Exim 4.89_34-9f6032f-XX)
+	(envelope-from <fiancaillesparis@evm611.sgvps.net>)
+	id 1gm32M-00014W-6Z
+	for pascal@sofimediat.fr; Tue, 22 Jan 2019 21:52:46 +0100
+X-SG-User: fiancaillesparis
+X-SG-Opt:  SCRIPT_FILENAME=/home/fiancaillesparis/public_html/wp-comments-post.php  REQUEST_URI=/wp-comments-post.php  PWD=/home/fiancaillesparis/public_html  REMOTE_ADDR=5.188.44.20 
+To: pascal@sofimediat.fr
+Subject: =?UTF-8?Q?[Fian=C3=A7ailles_=C3=A0_Paris]_Please_moderate:_"M'AMA_NON_M'A?=  =?UTF-8?Q?MA_rings_by_Pomellato=5F"?=
+Date: Tue, 22 Jan 2019 20:52:46 +0000
+From: WordPress <wordpress@fiancailles-a-paris.com>
+Message-ID: <6d3dc22eabfcd3335494599908069a5c@fiancailles-a-paris.com>
+X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+A new comment on the post "M'AMA NON M'AMA rings by Pomellato_" is waiting =
+for your approval
+https://fiancailles-a-paris.com/pomellato/mama-non-mama-rings-by-pomellato_=
+-2/?lang=3Den
+
+Author: KelDild (IP address: 5.188.44.20, 5.188.44.20)
+Email: kelAudits@emaill.host
+URL: http://cialgeneric.com
+Comment:=20
+Puedo Tomar Cialis Viagra Prix En Pharmacie Belgique Cheap Alternative Nexi=
+um  <a href=3D"http://sildenaf75.com" rel=3D"nofollow">viagra</a> Tadacip O=
+nline Kaufen Cialis Foie  Is 20 Mg Prednisone A High Dose  <a href=3D"http:=
+//euhomme.com" rel=3D"nofollow">cialis cheapest online prices</a> Bactrim R=
+oche  Generic Secure Stendra Cod Accepted Internet Overseas Store Exeter Vi=
+agra For Sale  <a href=3D"http://gemeds.com" rel=3D"nofollow">kamagra 50 ge=
+l oral</a> Levitra En Ayunas Amoxicillin Antibiotics For Bowel Priligy 30 M=
+g Compresse  Viagra Achat En Belgique Comprar Cialis Original En Andorra Ph=
+armacy24online  <a href=3D"http://viaapill.com" rel=3D"nofollow">viagra</a>=
+ Worldwide Isotretinoin By Money Order In Usa Price Cyklokapron No Prescrip=
+tion Viagra Original Kaufen  Cialis Tarif  <a href=3D"http://sildenafbuy.co=
+m" rel=3D"nofollow">viagra</a> Direct Provera Drugs Uti Amoxicillin  Cheap =
+Levitra Online  <a href=3D"http://drisdol.com" rel=3D"nofollow">canadian ph=
+armacy cialis 20mg</a> Potenzmittel Kamagra Sildenafil Propecia Online Uk
+
+Approve it: https://fiancailles-a-paris.com/wp-admin/comment.php?action=3Da=
+pprove&c=3D102#wpbody-content
+Trash it: https://fiancailles-a-paris.com/wp-admin/comment.php?action=3Dtra=
+sh&c=3D102#wpbody-content
+Spam it: https://fiancailles-a-paris.com/wp-admin/comment.php?action=3Dspam=
+&c=3D102#wpbody-content
+Currently 7 comments are waiting for approval. Please visit the moderation =
+panel:
+https://fiancailles-a-paris.com/wp-admin/edit-comments.php?comment_status=
+=3Dmoderated#wpbody-content
+
+
+--1548190366-eximdsn-1945964822--

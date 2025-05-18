@@ -1,0 +1,115 @@
+Return-Path: <>
+Delivered-To: fiancaillesparis@evm611.sgvps.net
+Received: from evm611.sgvps.net
+	by evm611.sgvps.net with LMTP id UF4GKFXhHluymgAAxNTPJA
+	for <fiancaillesparis@evm611.sgvps.net>; Mon, 11 Jun 2018 22:53:41 +0200
+Return-path: <>
+Envelope-to: fiancaillesparis@evm611.sgvps.net
+Delivery-date: Mon, 11 Jun 2018 22:53:41 +0200
+Received: from mailnull by evm611.sgvps.net with local (Exim 4.89_34-9f6032f-XX)
+	id 1fSTor-000Ayp-Kl
+	for fiancaillesparis@evm611.sgvps.net; Mon, 11 Jun 2018 22:53:41 +0200
+X-Failed-Recipients: contact@fiancailles-a-paris.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@evm611.sgvps.net>
+To: fiancaillesparis@evm611.sgvps.net
+Content-Type: multipart/report; report-type=delivery-status; boundary=1528750421-eximdsn-161414037
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1fSTor-000Ayp-Kl@evm611.sgvps.net>
+Date: Mon, 11 Jun 2018 22:53:41 +0200
+
+--1528750421-eximdsn-161414037
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  contact@fiancailles-a-paris.com
+    host outbound.mailspamprotection.com [108.163.228.170]
+    SMTP error from remote mail server after end of data:
+    550 A URL in this email (traffictips . top) is listed on https://spamrl.com/. Please resolve and retry
+
+--1528750421-eximdsn-161414037
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; evm611.sgvps.net
+
+Action: failed
+Final-Recipient: rfc822;contact@fiancailles-a-paris.com
+Status: 5.0.0
+Remote-MTA: dns; outbound.mailspamprotection.com
+Diagnostic-Code: smtp; 550 A URL in this email (traffictips . top) is listed on https://spamrl.com/. Please resolve and retry
+
+--1528750421-eximdsn-161414037
+Content-type: message/rfc822
+
+Return-path: <fiancaillesparis@evm611.sgvps.net>
+Received: from [127.0.0.1] (port=50030 helo=evm611.sgvps.net)
+	by evm611.sgvps.net with smtp (Exim 4.89_34-9f6032f-XX)
+	(envelope-from <fiancaillesparis@evm611.sgvps.net>)
+	id 1fSTon-000Ay9-UM
+	for contact@fiancailles-a-paris.com; Mon, 11 Jun 2018 22:53:39 +0200
+X-SG-User: fiancaillesparis
+X-SG-Opt:  SCRIPT_FILENAME=/home/fiancaillesparis/public_html/index.php  REQUEST_URI=/service-client-contact/  PWD=/home/fiancaillesparis/public_html  REMOTE_ADDR=89.33.41.253 
+To: contact@fiancailles-a-paris.com
+Subject: Contact via site internet
+Date: Mon, 11 Jun 2018 20:53:37 +0000
+From: "paigea6mfgjones@yahoo.com" <contact@fiancailles-a-paris.com>
+Reply-To: paigea6mfgjones@yahoo.com
+Message-ID: <18507f1d64c1ee59cee66fdda9ee9be0@fiancailles-a-paris.com>
+X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+De: paigea6mfgjones@yahoo.com <paigea6mfgjones@yahoo.com>
+Objet: O xl L
+
+Nom : Mr Paige Paige
+Téléphone : (805) 372-1751
+Message :
+Have you ever struggled with ranking your site and getting the traffic you deserve?  
+
+Now you can learn to rank your site and grow your business.
+
+For less then 5 days you have the chance to explode your rankings, but hurry it ends soon!
+
+http://www.traffictips.top/?site=fiancailles-a-paris.com
+
+
+-Paige
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+500 Westover Dr #12733
+Sanford, NC 27330
+
+If this commercial message wasn't relevant for you, you can update your preferences and remove yourself from future messages here: http://traffictips.top/out.php?site=fiancailles-a-paris.com
+
+
+--1528750421-eximdsn-161414037--

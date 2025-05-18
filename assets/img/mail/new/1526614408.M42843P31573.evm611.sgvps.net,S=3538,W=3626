@@ -1,0 +1,88 @@
+Return-Path: <>
+Delivered-To: fiancaillesparis@evm611.sgvps.net
+Received: from evm611.sgvps.net
+	by evm611.sgvps.net with LMTP id mKmjAYhJ/lpVewAAxNTPJA
+	for <fiancaillesparis@evm611.sgvps.net>; Fri, 18 May 2018 05:33:28 +0200
+Return-path: <>
+Envelope-to: fiancaillesparis@evm611.sgvps.net
+Delivery-date: Fri, 18 May 2018 05:33:28 +0200
+Received: from mailnull by evm611.sgvps.net with local (Exim 4.89_34-9f6032f-XX)
+	id 1fJW91-0008D9-VN
+	for fiancaillesparis@evm611.sgvps.net; Fri, 18 May 2018 05:33:27 +0200
+X-Failed-Recipients: contact@fiancailles-a-paris.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@evm611.sgvps.net>
+To: fiancaillesparis@evm611.sgvps.net
+Content-Type: multipart/report; report-type=delivery-status; boundary=1526614407-eximdsn-606881702
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1fJW91-0008D9-VN@evm611.sgvps.net>
+Date: Fri, 18 May 2018 05:33:27 +0200
+
+--1526614407-eximdsn-606881702
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  contact@fiancailles-a-paris.com
+    host outbound.mailspamprotection.com [184.154.208.34]
+    SMTP error from remote mail server after end of data:
+    550 A URL in this email (linkus . xyz) is listed on https://spamrl.com/. Please resolve and retry
+
+--1526614407-eximdsn-606881702
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; evm611.sgvps.net
+
+Action: failed
+Final-Recipient: rfc822;contact@fiancailles-a-paris.com
+Status: 5.0.0
+Remote-MTA: dns; outbound.mailspamprotection.com
+Diagnostic-Code: smtp; 550 A URL in this email (linkus . xyz) is listed on https://spamrl.com/. Please resolve and retry
+
+--1526614407-eximdsn-606881702
+Content-type: message/rfc822
+
+Return-path: <fiancaillesparis@evm611.sgvps.net>
+Received: from [127.0.0.1] (port=36122 helo=evm611.sgvps.net)
+	by evm611.sgvps.net with smtp (Exim 4.89_34-9f6032f-XX)
+	(envelope-from <fiancaillesparis@evm611.sgvps.net>)
+	id 1fJW90-0008Ce-1k
+	for contact@fiancailles-a-paris.com; Fri, 18 May 2018 05:33:26 +0200
+X-SG-User: fiancaillesparis
+X-SG-Opt:  SCRIPT_FILENAME=/home/fiancaillesparis/public_html/index.php  REQUEST_URI=/service-client-contact/  PWD=/home/fiancaillesparis/public_html  REMOTE_ADDR=142.147.106.74 
+To: contact@fiancailles-a-paris.com
+Subject: Contact via site internet
+X-PHP-Originating-Script: 593:class-phpmailer.php
+Date: Fri, 18 May 2018 03:33:25 +0000
+From: "tomplotkin@sbcglobal.net" <contact@fiancailles-a-paris.com>
+Reply-To: tomplotkin@sbcglobal.net
+Message-ID: <662d670c003431b8b2196cd4a2cb8f57@fiancailles-a-paris.com>
+X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+De: tomplotkin@sbcglobal.net <tomplotkin@sbcglobal.net>
+Objet: Mecwmcnsr
+
+Nom : Mr Jacquetta Jacquetta
+Téléphone : 01.67.55.45.78
+Message :
+Hi
+
+Shop the full Range of Mens and Womens Oakley Sunglasses here at discount prices 19.95 dollars! Check out all our sunnies - Complete collection available at http://b.linkus.xyz/2pFpAg
+
+Kind Regards,
+
+---
+If you prefer not to receive future emails, please reply this email with "Remove Me".
+
+-----------------------------------------------------------------------------------
+Service client nous contacter - Fiançailles à Paris
+
+
+--1526614407-eximdsn-606881702--

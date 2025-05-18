@@ -1,0 +1,77 @@
+Return-Path: <>
+Delivered-To: fiancaillesparis@evm611.sgvps.net
+Received: from evm611.sgvps.net
+	by evm611.sgvps.net with LMTP id iGudFNz8Y1vY0QAAxNTPJA
+	for <fiancaillesparis@evm611.sgvps.net>; Fri, 03 Aug 2018 08:57:32 +0200
+Return-path: <>
+Envelope-to: fiancaillesparis@evm611.sgvps.net
+Delivery-date: Fri, 03 Aug 2018 08:57:32 +0200
+Received: from mailnull by evm611.sgvps.net with local (Exim 4.89_34-9f6032f-XX)
+	id 1flU1k-000DyM-9e
+	for fiancaillesparis@evm611.sgvps.net; Fri, 03 Aug 2018 08:57:32 +0200
+X-Failed-Recipients: pascal@sofimediat.fr
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@evm611.sgvps.net>
+To: fiancaillesparis@evm611.sgvps.net
+Content-Type: multipart/report; report-type=delivery-status; boundary=1533279452-eximdsn-1311833822
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1flU1k-000DyM-9e@evm611.sgvps.net>
+Date: Fri, 03 Aug 2018 08:57:32 +0200
+
+--1533279452-eximdsn-1311833822
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  pascal@sofimediat.fr
+    No Such User Here
+
+--1533279452-eximdsn-1311833822
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; evm611.sgvps.net
+
+Action: failed
+Final-Recipient: rfc822;pascal@sofimediat.fr
+Status: 5.0.0
+
+--1533279452-eximdsn-1311833822
+Content-type: message/rfc822
+
+Return-path: <fiancaillesparis@evm611.sgvps.net>
+Received: from [127.0.0.1] (port=33988 helo=evm611.sgvps.net)
+	by evm611.sgvps.net with smtp (Exim 4.89_34-9f6032f-XX)
+	(envelope-from <fiancaillesparis@evm611.sgvps.net>)
+	id 1flU1k-000DyG-83
+	for pascal@sofimediat.fr; Fri, 03 Aug 2018 08:57:32 +0200
+X-SG-User: fiancaillesparis
+X-SG-Opt:  SCRIPT_FILENAME=/home/fiancaillesparis/public_html/wp-cron.php  REQUEST_URI=/wp-cron.php?doing_wp_cron=1533279441.3884809017181396484375  PWD=/home/fiancaillesparis/public_html  REMOTE_ADDR=107.6.171.138 
+To: pascal@sofimediat.fr
+Subject: =?UTF-8?Q?[Fian=C3=A7ailles_=C3=A0_Paris]_Votre_site_a_=C3=A9t=C3=A9_mis_?=  =?UTF-8?Q?=C3=A0_jour_vers_WordPress_4.9.8?=
+Date: Fri, 3 Aug 2018 06:57:32 +0000
+From: WordPress <wordpress@fiancailles-a-paris.com>
+Message-ID: <b5313359ddca41c6706ef81992721455@fiancailles-a-paris.com>
+X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Bonjour ! Votre site à l’adresse https://fiancailles-a-paris.com a été automatiquement mis à jour vers WordPress 4.9.8.
+
+Vous n’avez rien de plus à faire. Pour en savoir plus sur la version 4.9.8, lisez l’écran À Propos de WordPress : 
+https://fiancailles-a-paris.com/wp-admin/about.php
+
+Si vous rencontrez des problèmes ou avez besoin d’assistance, les volontaires du forum d’entraide de wpfr.net devraient pouvoir vous aider.
+https://wpfr.net/support/
+
+Certains de vos thèmes et extensions ont également des mises à jour disponibles. Veuillez les mettre à jour dès maintenant :
+https://fiancailles-a-paris.com/wp-admin/
+
+L’équipe WordPress
+
+
+--1533279452-eximdsn-1311833822--

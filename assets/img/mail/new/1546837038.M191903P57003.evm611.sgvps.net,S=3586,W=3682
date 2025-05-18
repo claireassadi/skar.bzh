@@ -1,0 +1,96 @@
+Return-Path: <>
+Delivered-To: fiancaillesparis@evm611.sgvps.net
+Received: from evm611.sgvps.net
+	by evm611.sgvps.net with LMTP id AJwhCy7cMlyr3gAAxNTPJA
+	for <fiancaillesparis@evm611.sgvps.net>; Mon, 07 Jan 2019 05:57:18 +0100
+Return-path: <>
+Envelope-to: fiancaillesparis@evm611.sgvps.net
+Delivery-date: Mon, 07 Jan 2019 05:57:18 +0100
+Received: from mailnull by evm611.sgvps.net with local (Exim 4.89_34-9f6032f-XX)
+	id 1ggMyU-0000A4-4S
+	for fiancaillesparis@evm611.sgvps.net; Mon, 07 Jan 2019 05:57:18 +0100
+X-Failed-Recipients: contact@fiancailles-a-paris.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@evm611.sgvps.net>
+To: fiancaillesparis@evm611.sgvps.net
+Content-Type: multipart/report; report-type=delivery-status; boundary=1546837038-eximdsn-2007084212
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1ggMyU-0000A4-4S@evm611.sgvps.net>
+Date: Mon, 07 Jan 2019 05:57:18 +0100
+
+--1546837038-eximdsn-2007084212
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  contact@fiancailles-a-paris.com
+    host outbound.mailspamprotection.com [108.178.13.114]
+    SMTP error from remote mail server after end of data:
+    550 A URL in this email (advertisinginsights . club) is listed on https://spamrl.com/. Please resolve and retry
+
+--1546837038-eximdsn-2007084212
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; evm611.sgvps.net
+
+Action: failed
+Final-Recipient: rfc822;contact@fiancailles-a-paris.com
+Status: 5.0.0
+Remote-MTA: dns; outbound.mailspamprotection.com
+Diagnostic-Code: smtp; 550 A URL in this email (advertisinginsights . club) is listed on https://spamrl.com/. Please resolve and retry
+
+--1546837038-eximdsn-2007084212
+Content-type: message/rfc822
+
+Return-path: <fiancaillesparis@evm611.sgvps.net>
+Received: from [127.0.0.1] (port=53436 helo=evm611.sgvps.net)
+	by evm611.sgvps.net with smtp (Exim 4.89_34-9f6032f-XX)
+	(envelope-from <fiancaillesparis@evm611.sgvps.net>)
+	id 1ggMyR-000062-Qz
+	for contact@fiancailles-a-paris.com; Mon, 07 Jan 2019 05:57:15 +0100
+X-SG-User: fiancaillesparis
+X-SG-Opt:  SCRIPT_FILENAME=/home/fiancaillesparis/public_html/index.php  REQUEST_URI=/service-client-contact/  PWD=/home/fiancaillesparis/public_html  REMOTE_ADDR=23.94.154.214 
+To: contact@fiancailles-a-paris.com
+Subject: Contact via site internet
+Date: Mon, 7 Jan 2019 04:57:15 +0000
+From: "gtebwb@yahoo.com" <contact@fiancailles-a-paris.com>
+Reply-To: gtebwb@yahoo.com
+Message-ID: <2446846a115d70cc381482abeef3bddf@fiancailles-a-paris.com>
+X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+De: gtebwb@yahoo.com <gtebwb@yahoo.com>
+Objet: Ypyz Be
+
+Nom : Mlle Grace Grace
+Téléphone : 805-372-1751
+Message :
+Hey looks like you have a nice site.  Are you getting as much traffic to your site from LinkedIn as you deserve?
+ 
+Discover how a mini makeover and training can maximize your presence without spending any money on ads:
+
+https://www.advertisinginsights.club/li/?=fiancailles-a-paris.com
+ 
+Did I mention it cost $0?
+ 
+Grace
+LinkedIn Specialist
+
+
+
+ 
+
+500 Westover Dr #12733
+Sanford, NC 27330
+ 
+Is this non transactional message no for you? You can stop future messages here:
+https://advertisinginsights.club/out.php?site=fiancailles-a-paris.com
+
+
+--1546837038-eximdsn-2007084212--

@@ -1,0 +1,244 @@
+Return-Path: <>
+Delivered-To: fiancaillesparis@evm611.sgvps.net
+Received: from evm611.sgvps.net
+	by evm611.sgvps.net with LMTP id gCvQC2TmiloZWwAAxNTPJA
+	for <fiancaillesparis@evm611.sgvps.net>; Mon, 19 Feb 2018 15:59:48 +0100
+Return-path: <>
+Envelope-to: fiancaillesparis@evm611.sgvps.net
+Delivery-date: Mon, 19 Feb 2018 15:59:48 +0100
+Received: from se2.mailspamprotection.com ([108.163.201.226]:57384 helo=delivery.mailspamprotection.com)
+	by evm611.sgvps.net with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.89_34-9f6032f-XX)
+	id 1enmuy-0005wf-2L
+	for fiancaillesparis@evm611.sgvps.net; Mon, 19 Feb 2018 15:59:48 +0100
+Received: from Debian-exim by se2.mailspamprotection.com with local (Exim 4.89)
+	id 1enmuH-0006AH-MS
+	for fiancaillesparis@evm611.sgvps.net; Mon, 19 Feb 2018 08:59:06 -0600
+X-Failed-Recipients: adrien94@hotmail.fr
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@se2.mailspamprotection.com>
+To: fiancaillesparis@evm611.sgvps.net
+Content-Type: multipart/report; report-type=delivery-status; boundary=1519052345-eximdsn-1666229816
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1enmuH-0006AH-MS@se2.mailspamprotection.com>
+Date: Mon, 19 Feb 2018 08:59:05 -0600
+
+--1519052345-eximdsn-1666229816
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  adrien94@hotmail.fr
+    host eur.olc.protection.outlook.com [104.47.10.33]
+    SMTP error from remote mail server after RCPT TO:<adrien94@hotmail.fr>:
+    550 5.5.0 Requested action not taken: mailbox unavailable.
+
+--1519052345-eximdsn-1666229816
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; se2.mailspamprotection.com
+
+Action: failed
+Final-Recipient: rfc822;adrien94@hotmail.fr
+Status: 5.0.0
+Remote-MTA: dns; eur.olc.protection.outlook.com
+Diagnostic-Code: smtp; 550 5.5.0 Requested action not taken: mailbox unavailable.
+
+--1519052345-eximdsn-1666229816
+Content-type: message/rfc822
+
+Return-path: <fiancaillesparis@evm611.sgvps.net>
+Received: from evm611.sgvps.net ([107.6.171.138])
+	by se2.mailspamprotection.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.89)
+	(envelope-from <fiancaillesparis@evm611.sgvps.net>)
+	id 1enmuD-0005yV-7c
+	for adrien94@hotmail.fr; Mon, 19 Feb 2018 08:59:04 -0600
+Received: from [127.0.0.1] (port=56172 helo=evm611.sgvps.net)
+	by evm611.sgvps.net with smtp (Exim 4.89_34-9f6032f-XX)
+	(envelope-from <fiancaillesparis@evm611.sgvps.net>)
+	id 1enmuA-0005uZ-PI
+	for adrien94@hotmail.fr; Mon, 19 Feb 2018 15:59:00 +0100
+To: adrien94@hotmail.fr
+Subject: =?UTF-8?Q?Votre_commande_du_14_February_2018_sur_Fian=C3=A7ailles_=C3=A0_?=  =?UTF-8?Q?Paris_est_compl=C3=A8te?=
+X-PHP-Originating-Script: 593:class-phpmailer.php
+Date: Mon, 19 Feb 2018 14:58:58 +0000
+From: =?UTF-8?Q?Fian=C3=A7ailles_=C3=A0_Paris?= <contact@fiancailles-a-paris.com>
+Message-ID: <6c563d37962435e6c73900fbe2338697@fiancailles-a-paris.com>
+X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - evm611.sgvps.net
+X-AntiAbuse: Original Domain - hotmail.fr
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - evm611.sgvps.net
+X-Get-Message-Sender-Via: evm611.sgvps.net: none
+X-Authenticated-Sender: evm611.sgvps.net: 
+X-Originating-IP: 107.6.171.138
+X-SpamExperts-Domain: evm611.sgvps.net
+X-SpamExperts-Username: 107.6.171.138
+Authentication-Results: mailspamprotection.com; auth=pass smtp.auth=107.6.171.138@evm611.sgvps.net
+X-SpamExperts-Outgoing-Class: ham
+X-SpamExperts-Outgoing-Evidence: Combined (0.10)
+X-Recommended-Action: accept
+X-Filter-ID: EX5BVjFpneJeBchSMxfU5oEScf6EcmJ8CMgSl/8cfwd602E9L7XzfQH6nu9C/Fh9KJzpNe6xgvOx
+ q3u0UDjvO1mxs0OZcQPsMEnrHeMYozpGonIo943T84QuZL7cBU18+DA48UtJt+jT8ivXnfXczuKV
+ se1sVhWabI0/+PN3sIKUYmhS9vAb5UElM+rK74SbJnELlZBrp3uXQQGx9+KDS3gOrHGWcKc5AqOF
+ qAQq4tLXieDNWzPvTX0ja2ZbdgXzVH/UobiKf5sjpgdBcvuCurZn/5MQZOs0CsP7LNGTn5CokQ6H
+ z8tUt4gVNKRePD5ro7lM+rMZqX8+XIK5o8xr5iwaGsWPb3Zo2C8j0kAj84TYqiEfjKiSZyCMKyRs
+ Yz4qiwK/pUSepSVaLWdnKD+WQQHjGN9mut8PUYrNlSG41Vc3/eFdiE4MkeaGU5VJ/8zFWECSVj7W
+ kQELEzQbfDjZkLSJjzN5e8VFlEjmqR4rzvUXKu1VbgppFJRGoXLED7mHdf2raDz16YHGOTi9tJoQ
+ rnFxRoIfMKAKr6ewiTU7j+8F/8f2ELNzaxA//NNHebk6rChvZgrG/vzAuEP9k9Re5VYg1LTxRaok
+ 69/9PrSBYXK8wur+1+oIVF+bk4bQE8J9qTU60HzHOzYpZ9AQgE+5lwwzD0Yi3IPZIoOmA1Kpngs9
+ llqvvHoJNZZn5rjYxZbXJq5FbuhW4KsxqRMhP20Oa+GWo/mZbWKFHY0ZZFUjJhDcZjMlALolD9OM
+ boALwx5DAZk+Ky7c6iyV3h2+BhOaLkrIjqtYuVcqdvDkWOzZ/s6eG6Wv+ycS+yMdgW/3+x0dx77X
+ pUsmM3dH+MJJbG1BuT4/m8kLUvdROWfiO/xqEltBUIu1eNyrpfWpsP4y7pd8ywnmj1PkHb0A2s96
+ sx7VpmWLX2ZbQb3UJKihEmoDuwjyECwpid86SGshiPdaoQbGlBg5/jooRUpt3Rb8T9KehrhYgVoE
+ gDYU4bxEPiCaX8s=
+X-Report-Abuse-To: spam@quarantine1.mailspamprotection.com
+
+<!DOCTYPE html>
+<html lang="fr-FR">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Fiançailles à Paris</title>
+</head>
+<body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0">
+		<div id="wrapper" dir="ltr" style="background-color: #f7f7f7; margin: 0; padding: 70px 0 70px 0; -webkit-text-size-adjust: none !important; width: 100%;">
+			<table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%"><tr>
+<td align="center" valign="top">
+						<div id="template_header_image">
+													</div>
+						<table border="0" cellpadding="0" cellspacing="0" width="600" id="template_container" style="box-shadow: 0 1px 4px rgba(0,0,0,0.1) !important; background-color: #ffffff; border: 1px solid #dedede; border-radius: 3px !important;">
+<tr>
+<td align="center" valign="top">
+									<!-- Header -->
+									<table border="0" cellpadding="0" cellspacing="0" width="600" id="template_header" style='background-color: #96588a; border-radius: 3px 3px 0 0 !important; color: #ffffff; border-bottom: 0; font-weight: bold; line-height: 100%; vertical-align: middle; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;'><tr>
+<td id="header_wrapper" style="padding: 36px 48px; display: block;">
+												<h1 style='color: #ffffff; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 30px; font-weight: 300; line-height: 150%; margin: 0; text-align: left; text-shadow: 0 1px 0 #ab79a1; -webkit-font-smoothing: antialiased;'>Votre commande est terminée</h1>
+											</td>
+										</tr></table>
+<!-- End Header -->
+</td>
+							</tr>
+<tr>
+<td align="center" valign="top">
+									<!-- Body -->
+									<table border="0" cellpadding="0" cellspacing="0" width="600" id="template_body"><tr>
+<td valign="top" id="body_content" style="background-color: #ffffff;">
+												<!-- Content -->
+												<table border="0" cellpadding="20" cellspacing="0" width="100%"><tr>
+<td valign="top" style="padding: 48px 48px 0;">
+															<div id="body_content_inner" style='color: #636363; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 14px; line-height: 150%; text-align: left;'>
+
+<p style="margin: 0 0 16px;">Bonjour. Votre récente commande sur Fiançailles à Paris a bien
+été enregistrée. Vos détails de commande sont affichés ci-dessous
+:</p>
+
+
+	<h2 style='color: #96588a; display: block; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 18px; font-weight: bold; line-height: 130%; margin: 0 0 18px; text-align: left;'>Commande n°7343 (<time datetime="2018-02-14T09:46:41+01:00">14 February 2018</time>)</h2>
+
+<div style="margin-bottom: 40px;">
+	<table class="td" cellspacing="0" cellpadding="6" style="width: 100%; font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif; color: #636363; border: 1px solid #e5e5e5;" border="1">
+<thead><tr>
+<th class="td" scope="col" style="text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;">Produit</th>
+				<th class="td" scope="col" style="text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;">Quantité</th>
+				<th class="td" scope="col" style="text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;">Prix</th>
+			</tr></thead>
+<tbody><tr class="order_item">
+<td class="td" style="text-align: left; vertical-align: middle; border: 1px solid #eee; word-wrap: break-word; color: #636363; padding: 12px;">PRÉCIEUSE Henri Le
+Roux<ul class="wc-item-meta" style="font-size: small; margin: 1em 0 0; padding: 0; list-style: none;">
+<li style="margin: 0.5em 0 0; padding: 0;">
+<strong class="wc-item-meta-label">Types de chocolat:</strong> <p style="margin: 0;">Assortiment
+chocolat noir/lait</p>
+</li>
+<li style="margin: 0.5em 0 0; padding: 0;">
+<strong class="wc-item-meta-label">Baguier:</strong> <p style="margin: 0;">non</p>
+</li>
+</ul>
+</td>
+			<td class="td" style="text-align: left; vertical-align: middle; border: 1px solid #eee; color: #636363; padding: 12px;">1</td>
+			<td class="td" style="text-align: left; vertical-align: middle; border: 1px solid #eee; color: #636363; padding: 12px;"><span class="woocommerce-Price-amount
+amount">225,00 <span class="woocommerce-Price-currencySymbol">€</span></span></td>
+		</tr></tbody>
+<tfoot>
+<tr>
+<th class="td" scope="row" colspan="2" style="text-align: left; border-top-width: 4px; color: #636363; border: 1px solid #e5e5e5; padding: 12px;">Sous-total :</th>
+							<td class="td" style="text-align: left; border-top-width: 4px; color: #636363; border: 1px solid #e5e5e5; padding: 12px;"><span class="woocommerce-Price-amount amount">225,00 <span class="woocommerce-Price-currencySymbol">€</span></span></td>
+						</tr>
+<tr>
+<th class="td" scope="row" colspan="2" style="text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;">Expédition :</th>
+							<td class="td" style="text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;">Livraison
+gratuite</td>
+						</tr>
+<tr>
+<th class="td" scope="row" colspan="2" style="text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;">Moyen de paiement :</th>
+							<td class="td" style="text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;">Carte Bancaire</td>
+						</tr>
+<tr>
+<th class="td" scope="row" colspan="2" style="text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;">Total :</th>
+							<td class="td" style="text-align: left; color: #636363; border: 1px solid #e5e5e5; padding: 12px;">
+<span class="woocommerce-Price-amount amount">225,00 <span class="woocommerce-Price-currencySymbol">€</span></span> <small class="includes_tax">(dont <span class="woocommerce-Price-amount
+amount">37,50 <span class="woocommerce-Price-currencySymbol">€</span></span>
+TVA)</small>
+</td>
+						</tr>
+</tfoot>
+</table>
+</div>
+
+<table id="addresses" cellspacing="0" cellpadding="0" style="width: 100%; vertical-align: top; margin-bottom: 40px; padding: 0;" border="0"><tr>
+<td style="text-align: left; border: 0; padding: 0;" valign="top" width="50%">
+			<h2 style='color: #96588a; display: block; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 18px; font-weight: bold; line-height: 130%; margin: 0 0 18px; text-align: left;'>Adresse de facturation</h2>
+
+			<address class="address" style="padding: 12px 12px 0; color: #636363; border: 1px solid #e5e5e5;">
+				adrien dddd<br>4 rue louis armand<br>94000 ST
+MANDE													<p style="margin: 0 0 16px;">adrien94@hotmail.fr</p>
+							</address>
+		</td>
+					<td style="text-align: left; padding: 0;" valign="top" width="50%">
+				<h2 style='color: #96588a; display: block; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 18px; font-weight: bold; line-height: 130%; margin: 0 0 18px; text-align: left;'>Adresse de livraison</h2>
+
+				<address class="address" style="padding: 12px 12px 0; color: #636363; border: 1px solid #e5e5e5;">adrien dddd<br>4 rue louis
+armand<br>94000 ST MANDE</address>
+			</td>
+			</tr></table>
+</div>
+														</td>
+													</tr></table>
+<!-- End Content -->
+</td>
+										</tr></table>
+<!-- End Body -->
+</td>
+							</tr>
+<tr>
+<td align="center" valign="top">
+									<!-- Footer -->
+									<table border="0" cellpadding="10" cellspacing="0" width="600" id="template_footer"><tr>
+<td valign="top" style="padding: 0; -webkit-border-radius: 6px;">
+												<table border="0" cellpadding="10" cellspacing="0" width="100%"><tr>
+<td colspan="2" valign="middle" id="credit" style="padding: 0 48px 48px 48px; -webkit-border-radius: 6px; border: 0; color: #c09bb9; font-family: Arial; font-size: 12px; line-height: 125%; text-align: center;">
+															<p>Fiançailles à Paris</p>
+														</td>
+													</tr></table>
+</td>
+										</tr></table>
+<!-- End Footer -->
+</td>
+							</tr>
+</table>
+</td>
+				</tr></table>
+</div>
+	</body>
+</html>
+
+
+--1519052345-eximdsn-1666229816--

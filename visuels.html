@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="fr">
+   <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta http-equiv="X-UA-Compatible" content="ie=edge">
+      <link href="https://fonts.googleapis.com/css?family=Muli" rel="stylesheet">
+      <link href="https://fonts.googleapis.com/css?family=Abel" rel="stylesheet">
+      <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+      <link rel="stylesheet" href="assets/css/normalize.css" />
+      <link rel="stylesheet" href="assets/css/style.css" />
+      <!-- Global site tag (gtag.js) - Google Analytics -->
+      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-134474374-1"></script>
+      <script>
+         window.dataLayer = window.dataLayer || [];
+         function gtag(){dataLayer.push(arguments);}
+         gtag('js', new Date());
+         
+         gtag('config', 'UA-134474374-1');
+      </script>
+      <title>Skar.Bzh</title>
+      <meta name="description" content="Location de matériels vidéo et son sur Rennes. Location de caméra sur Rennes, nous réalisons aussi des logos, des sites web, des vidéos sur Rennes. " />
+      <link rel="shortcut icon" href="assets/img/yo.png"/>
+   </head>
+   <body>
+      <header>
+         <h1><a href="index.html">SKAR.BZH</a></h1>
+         <a href="index.html" class="logo"><img src="assets/img/logo.jpg" height="90" class="logo" alt="skar" meta="skar"></a>
+         <h2><a href="index.html"><strong>Location de matériel <span>vidéo</span> et <span>son</span> sur Rennes</strong></a></h2>
+         <div class="nav">
+            <label for="toggle">
+               <!--&#9776;-->
+               <div class="container" onclick="myFunction(this)">
+                  <div class="bar1"></div>
+                  <div class="bar2"></div>
+                  <div class="bar3"></div>
+               </div>
+            </label>
+            <!---->
+            <input type="checkbox" id="toggle"/>
+            <nav class="menu">
+               <a href="visuels.html">VISUELS</a>
+               <a href="videos.html">VIDEOS</a>
+               <a href="location_materiel_video_rennes.html">LOCATIONS MATERIEL VIDEO</a>
+               <a href="site.html">SITES</a>
+               <a href="infos.html">CONTACT</a>
+            </nav>
+         </div>
+      </header>
+      <main>
+		<div id="target"></div>
+         <section>
+            <h3>L<span>O</span>GOS</h3>
+            <div class="graphismes" id="graphismes1">
+               <img src="assets/img/logo1.png" alt="logo de chaîne youtube de cover">
+               <img src="assets/img/logo2.png" alt="logo de montagnes pour t-shirt">
+               <img src="assets/img/logo3.png" alt="logo bol de nouilles pour traiteurs asiatique">
+               <img src="assets/img/logo4.png" alt="logo d'ordinateur pour entreprise de cybersécurité">
+            </div>
+            <h4>P<span>O</span>CHETTES D'ALBUMS</h4>
+            <div class="graphismes" id="graphismes2">
+               <img src="assets/img/pochette1.png" alt="pochette d'album jazz">
+               <img src="assets/img/pochette2.png" alt="pochette d'album de in the likeness - love again">
+               <img src="assets/img/pochette3.png" alt="pochette d'album vintage synthwave">
+            </div>
+            <h4>M<span>A</span>QUETTES DE SITES</h4>
+            <div class="graphismes" id="graphismes3">
+               <img src="assets/img/maquette1.png" alt="maquette de site cyberpunk">
+               <img src="assets/img/maquette2.png" alt="maquette de site blogus pocus">
+            </div>
+            <h4>P<span>H</span>OTTOS</h4>
+            <div class="rangee_photos_1" id="rangee_photos_1">
+               <img src="assets/img/image1.jpg" alt="branchage ensoleilé">
+               <img src="assets/img/image2.jpg" alt="portillion face a la mer">
+               <img src="assets/img/image3.jpg" alt="passage secret">
+               <!-- 
+                  <img src="assets/img/graph7.jpg" alt="modern samurai">
+                  <img src="assets/img/graph8.jpg" alt="night reflections">
+                  <img src="assets/img/graph9.jpg" alt="destruction / creation">
+                  <img src="assets/img/graph14.jpg" alt="cool boy">
+                  -->
+            </div>
+            <div class="rangee_photos_2" id="rangee_photos_2">
+               <img src="assets/img/image5.jpg" alt="petite guirlande couleurs pastel avec un cadre bleu clair">
+               <img src="assets/img/image6.jpg" alt="ciel avec des nuages rose et bleu entouré d'un cadre bleu">
+               <img src="assets/img/image7.jpg" alt="nuages bleu et rose clair avec un passage d'oiseaux">
+               <img src="assets/img/image8.jpg" alt="image minimaliste de nuages">
+               <img src="assets/img/image9.jpg" alt="ciel bleu avec la lune en croissant et des nuages rose">
+               <img src="assets/img/image10.jpg" alt="fleur rose sous le soleil">
+               <img src="assets/img/image12.jpg" alt="paysage d'hiver brumeux">
+               <img src="assets/img/image20.jpg" alt="ciel et mer se confondent">
+               <img src="assets/img/graph1.jpg" alt="china town dans les neons">
+               <img src="assets/img/graph17.jpg" alt="logo symbol de la création alchimique">
+               <img src="assets/img/graph19.jpg" alt="logo skar">
+               <img src="assets/img/graph20.jpg" alt="logo  lion géométrique">
+            </div>
+         </section>
+         <div id="myModal" class="modal">
+            <span class="close">&times;</span>
+            <img class="modal-content" id="img01">
+            <div id="caption"></div>
+         </div>
+		 <button onclick="topFunction()" id="myBtn" title="Go to top"><i class="fas fa-angle-up"></i></button>
+      </main>
+	  	<footer>
+			<nav>
+				<a href="https://www.youtube.com/channel/UCRVlL0JVUAppJPlVzAkOUCA" target="_blank"><i class="fab fa-youtube"></i></a>
+				<a href="https://www.instagram.com/skarrrrr/" target="_blank"><i class="fab fa-instagram"></i></a>
+				<a href="https://www.deviantart.com/skarrrrr" target="_blank"><i class="fab fa-deviantart"></i></a>
+				<a href="https://www.shutterstock.com/fr/g/SkarVisual/video" target="_blank"><i class="fas fa-film"></i></a>
+			</nav>
+			<p>MAIL :  <a href="mailto:skar.visualcreation@gmail.com">  skar.visualcreation@gmail.com</a></p>
+			<p>© 2018 Skar. ALL RIGHTS RESERVED</p>
+		</footer>
+      <script src="assets/js/main.js"></script>
+   </body>
+</html>
